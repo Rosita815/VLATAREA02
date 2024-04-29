@@ -1,0 +1,55 @@
+/* Pagina Perfil */
+/* Header */
+.encabezadoPerfil{
+    background-color: rgb(45, 107, 113);
+}
+
+img{
+    border-radius: 20%;
+    width: 50%;
+}
+
+.divImagen{
+    text-align: center;
+}
+
+article h1{
+    text-align: center;
+    font-size: 200%;
+}
+
+.menu{
+    background-color: rgb(131, 206, 219);
+    font-size: 150%;
+    
+}
+
+.principal{
+    background-color: coral;
+}
+
+.pie{
+    background-color:rgb(45, 107, 113);
+    text-align: center;
+}
+
+
+
+/*Pagina Estudios */
+
+.Titulo{
+    text-align: center;
+    background-color: coral;
+}
+
+.imgEcabezado{
+    text-align: center;
+    background-color: rgb(45, 107, 113);
+}
+
+
+/* Pagina Experiencia */
+.imgExperiencia{
+    text-align: center;
+    background-color: rgb(244, 53, 53);
+}
